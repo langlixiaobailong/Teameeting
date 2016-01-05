@@ -73,7 +73,7 @@ Submitted for the first time.Implement initialization, create a conference room,
 2.访问网络的框架修改完成。
 
 ##### 2015年12月30日13:42:08
-1.
+1.修改部分BUG
 
 
 
